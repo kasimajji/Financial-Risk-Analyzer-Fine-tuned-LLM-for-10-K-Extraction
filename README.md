@@ -1,4 +1,4 @@
-# 📊 FinLLM: Fine-Tuned LLM for Risk Extraction from 10-K Filings (QLoRA)
+# 📊 Financial-Risk-Analyzer-Fine-tuned-LLM-for-10-K-Extraction (QLoRA)
 
 Extracting structured **risk insights** from SEC 10-K filings using a fine-tuned LLaMA-2/Mistral model — built for **precision**, **explainability**, and **real-world financial NLP**.
 
